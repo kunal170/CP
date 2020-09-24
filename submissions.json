@@ -2971,6 +2971,22 @@
     ],
     "timestamp": "Feb/02/2022 19:35"
   },
+  "CF93651308": {
+    "contest_id": 705,
+    "language": "GNU C++14",
+    "path": "codeforces\\705\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Hulk",
+    "problem_url": "https://codeforces.com/contest/705/problem/A",
+    "submission_id": "CF93651308",
+    "submission_url": "https://codeforces.com/contest/705/submission/93651308",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Sep/24/2020 20:06"
+  },
   "CF94001683": {
     "contest_id": 1417,
     "language": "GNU C++14",
