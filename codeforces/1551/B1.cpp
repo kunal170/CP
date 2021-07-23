@@ -39,27 +39,26 @@ int temp=*x;
 int main()
 {
     
-
+ios::sync_with_stdio(0);
+cin.tie(0);
+cout.tie(0);
 int t;
 cin>>t;
 while(t--){
-int j,n,c=0;
+int i,n,c=0;
 string s;
-bool f=false;
 cin>>s;
-map<char,int>mi;
+map<char,int>m;
 n=s.size();
-for(j=0;j<n;j++)
-mi[s[j]]++;
-for(auto it:mi){
+for(i=0;i<n;i++)
+m[s[i]]++;
+for(auto it:m){
     if(it.second==1)
     c++;
     else
     c+=2;
 }
-int z=0;
-z++;
-z=14;
+
 cout<<c/2<<"\n";
 }
 return 0;
