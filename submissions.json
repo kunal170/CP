@@ -1,4 +1,20 @@
 {
+  "CF124093905": {
+    "contest_id": 1382,
+    "language": "GNU C++17",
+    "path": "codeforces\\1382\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Common Subsequence",
+    "problem_url": "https://codeforces.com/contest/1382/problem/A",
+    "submission_id": "CF124093905",
+    "submission_url": "https://codeforces.com/contest/1382/submission/124093905",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Jul/29/2021 12:56"
+  },
   "CF124105391": {
     "contest_id": 1374,
     "language": "GNU C++17",
