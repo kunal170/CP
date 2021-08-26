@@ -1,4 +1,21 @@
 {
+  "CF127016083": {
+    "contest_id": 1282,
+    "language": "GNU C++17",
+    "path": "codeforces\\1282\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Temporarily unavailable",
+    "problem_url": "https://codeforces.com/contest/1282/problem/A",
+    "submission_id": "CF127016083",
+    "submission_url": "https://codeforces.com/contest/1282/submission/127016083",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Aug/26/2021 09:59"
+  },
   "CF127209446": {
     "contest_id": 1285,
     "language": "GNU C++17",
